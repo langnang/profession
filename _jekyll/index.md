@@ -17,11 +17,11 @@ title: Profession
             {% for profession_2 in profession_1.children %}
               {% if profession_2.title !="" %}
                 <div class="col">
-                  <div class="card mb-3">
+                  <a class="card mb-3 text-decoration-none" href="#">
                     <div class="card-body">
                       <h3 class="card-title mt-0">{{profession_2.title}}</h3>
                     </div>
-                  </div>
+                  </a>
                 </div>
               {% endif %}
             {% endfor %}
