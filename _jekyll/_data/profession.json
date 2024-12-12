@@ -1,0 +1,517 @@
+[
+  {
+    "ico": "",
+    "slug": "",
+    "title": "互联网/AI",
+    "description": "",
+    "content": "",
+    "type": "",
+    "status": "",
+    "children": [
+      {
+        "ico": "",
+        "slug": "",
+        "title": "后端开发",
+        "description": "",
+        "content": "",
+        "type": "",
+        "status": "",
+        "children": [
+          {
+            "ico": "",
+            "slug": "",
+            "title": "Java",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "C/C++",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "PHP",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "Python",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "C#",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": ".NET",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "Golang",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "Node.js",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "语音/视频/图形开发",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "GIS工程师",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "区块链工程师",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "全栈工程师",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "其它后端开发",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "ico": "",
+        "slug": "",
+        "title": "前端/移动开发",
+        "description": "",
+        "content": "",
+        "type": "",
+        "status": "",
+        "children": [
+          {
+            "ico": "",
+            "slug": "",
+            "title": "前端开发工程师",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": [
+              {
+                "ico": "",
+                "slug": "",
+                "title": "Vue",
+                "description": "",
+                "content": "",
+                "type": "",
+                "status": "",
+                "children": []
+              },
+              {
+                "ico": "",
+                "slug": "",
+                "title": "React",
+                "description": "",
+                "content": "",
+                "type": "",
+                "status": "",
+                "children": []
+              },
+              {
+                "ico": "",
+                "slug": "",
+                "title": "UniApp",
+                "description": "",
+                "content": "",
+                "type": "",
+                "status": "",
+                "children": []
+              },
+              {
+                "ico": "",
+                "slug": "",
+                "title": "",
+                "description": "",
+                "content": "",
+                "type": "",
+                "status": "",
+                "children": []
+              },
+              {
+                "ico": "",
+                "slug": "",
+                "title": "",
+                "description": "",
+                "content": "",
+                "type": "",
+                "status": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "Android",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "iOS",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "U3D",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "UE4",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "Cocos",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "技术美术",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "JavaScript",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "鸿蒙开发工程师",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "其它前端/移动开发",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "ico": "",
+        "slug": "",
+        "title": "测试",
+        "description": "",
+        "content": "",
+        "type": "",
+        "status": "",
+        "children": [
+          {
+            "ico": "",
+            "slug": "",
+            "title": "测试工程师",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "软件测试",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "自动化测试",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "功能测试",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "测试开发",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "硬件测试",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          },
+          {
+            "ico": "",
+            "slug": "",
+            "title": "",
+            "description": "",
+            "content": "",
+            "type": "",
+            "status": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ico": "",
+    "slug": "",
+    "title": "电子/电气/通信",
+    "description": "",
+    "content": "",
+    "type": "",
+    "status": "",
+    "children": []
+  }
+]

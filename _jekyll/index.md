@@ -2,45 +2,32 @@
 title: Profession
 ---
 
-|                |               |                    |        |
-| -------------- | ------------- | ------------------ | ------ |
-| 互联网/AI      |               |                    |        |
-| 互联网/AI      | 后端开发      | Java               |        |
-| 互联网/AI      | 后端开发      | C/C++              |        |
-| 互联网/AI      | 后端开发      | PHP                |        |
-| 互联网/AI      | 后端开发      | Python             |        |
-| 互联网/AI      | 后端开发      | C#                 |        |
-| 互联网/AI      | 后端开发      | .NET               |        |
-| 互联网/AI      | 后端开发      | Golang             |        |
-| 互联网/AI      | 后端开发      | Node.js            |        |
-| 互联网/AI      | 后端开发      | 语音/视频/图形开发 |        |
-| 互联网/AI      | 后端开发      | GIS工程师          |        |
-| 互联网/AI      | 后端开发      | 区块链工程师       |        |
-| 互联网/AI      | 后端开发      | 全栈工程师         |        |
-| 互联网/AI      | 后端开发      | 其它后端开发       |        |
-| 互联网/AI      | 前端/移动开发 | 前端开发工程师     | Vue    |
-| 互联网/AI      | 前端/移动开发 | 前端开发工程师     | React  |
-| 互联网/AI      | 前端/移动开发 | 前端开发工程师     | UniApp |
-| 互联网/AI      | 前端/移动开发 | Android            |        |
-| 互联网/AI      | 前端/移动开发 | iOS                |        |
-| 互联网/AI      | 前端/移动开发 | U3D                |        |
-| 互联网/AI      | 前端/移动开发 | UE4                |        |
-| 互联网/AI      | 前端/移动开发 | Cocos              |        |
-| 互联网/AI      | 前端/移动开发 | 技术美术           |        |
-| 互联网/AI      | 前端/移动开发 | JavaScript         |        |
-| 互联网/AI      | 前端/移动开发 | 鸿蒙开发工程师     |        |
-| 互联网/AI      | 前端/移动开发 | 其它前端/移动开发  |        |
-| 互联网/AI      | 测试          | 测试工程师         |        |
-| 互联网/AI      | 测试          | 软件测试           |        |
-| 互联网/AI      | 测试          | 自动化测试         |        |
-| 互联网/AI      | 测试          | 功能测试           |        |
-| 互联网/AI      | 测试          | 测试开发           |        |
-| 互联网/AI      | 测试          | 硬件测试           |        |
-| 互联网/AI      | 运维/技术支持 |                    |        |
-| 互联网/AI      | 人工智能      |                    |        |
-| 互联网/AI      | 销售技术支持  |                    |        |
-| 互联网/AI      | 数据          |                    |        |
-| 互联网/AI      | 技术项目管理  |                    |        |
-| 互联网/AI      | 高端技术职位  |                    |        |
-| 互联网/AI      | 其它技术职位  |                    |        |
-| 电子/电气/通信 |               |                    |        |
+<div>
+  {% for profession_0 in site.data.profession %}
+    {% if profession_0.children %}
+      {% for profession_1 in profession_0.children %}
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item mt-0"><a href="#">{{profession_0.title}}</a></li>
+            <li class="breadcrumb-item mt-0 active" aria-current="page">{{profession_1.title}}</li>
+          </ol>
+        </nav>
+        {% if profession_0.children %}
+          <div class="row row-cols-4">
+            {% for profession_2 in profession_1.children %}
+              {% if profession_2.title !="" %}
+                <div class="col">
+                  <div class="card mb-3">
+                    <div class="card-body">
+                      <h3 class="card-title mt-0">{{profession_2.title}}</h3>
+                    </div>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
